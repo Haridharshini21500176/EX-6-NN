@@ -70,8 +70,8 @@ print(classification_rep)
 ```
 
 ### Output:
-![op](./a2.png)
-![op](./a1.png)
+![op](./N1.png)
+![op](./N2.png)
 
 <H3>Results:</H3>
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
